@@ -2,7 +2,7 @@
   "name": "deploy-github",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://minhlq-0928.github.io/deploy-github/",
+  "homepage": "https://nhiettinhvietcode.github.io/deploy-github/",
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",

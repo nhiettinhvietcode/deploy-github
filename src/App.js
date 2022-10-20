@@ -18,6 +18,17 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+         with
+        </p> 
+         <a
+          className="App-link"
+          href="https://nhiettinhvietcode.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         Nhiệt tình viết Code
+        </a>  
       </header>
     </div>
   );

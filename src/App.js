@@ -27,7 +27,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Nhiệt tình viết Code
+         Codering Enthusiastically
         </a>  
       </header>
     </div>
